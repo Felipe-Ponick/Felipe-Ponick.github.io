@@ -1,0 +1,35 @@
+body{
+    background-color: black;
+}
+
+fieldset{
+margin-top: 50px;
+border:dotted purple
+}
+
+input{
+    border-color: blueviolet;
+    height: 20px;
+    width: 700px;
+}
+
+label{
+    color: orange;
+}
+
+header{
+    margin-left: 1500px;
+}
+
+#home{
+    color: orange;
+
+}
+
+#projeto{
+    color: orange;
+}
+
+#rede{
+    color: orange;
+}
